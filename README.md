@@ -1,2 +1,6 @@
-# DactylManuformBuild
-This is essentially an account of my dactyl manuform 4x5 build.
+# Dactyl Manuform Build
+## Parts
+The case I used, I 3D printed myself. I didn't really want to spend time learning Clojure and designing my own version of the dactyl, so I used the one found in [this link](https://github.com/abstracthat/dactyl-manuform). Beyond that, I bought standard xda keycaps off of Amazon, as well as the diodes, copper tape, switches (Gateron Ink Black v2), arduino pro micro USB-C (I would recommend just getting the normal pro micros which are micro usb and then using a micro usb to usb c female extender), insulation tape for metal components, female RJ9 connectors, dupont wires, rubber feet, and a RJ9 coil. In addition, you'll probably need soldering equipment and a hot glue gun.
+## Build Process
+1. Decide on your key switches. The 3D model I chose appears to compatible with Cherry style switches so keep that in mind. Once you've decided and are confident that those are the switches you want, you put them all into your case and hot glue them such that they don't come out when taking off your keycaps.
+2. Next, you need to wire the switches in a matrix. The switches you bought should have two straight metal pins below them. You want to use the copper tape to form columns of your keyboard. I'll include a photo for reference:
